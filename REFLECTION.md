@@ -8,3 +8,4 @@ Setting up the connection and knowing how to stage and commit and the initial do
 Allowing multiple people to work on the same project without overwritting code and having a history of changes to go by in case something breaks.
 # 4.  How might this help with larger projects in the future?
 Collaboration is made easier (just like using Slack) and every feature can be developed and tested in a controlled way before any code is merged into the main project.
+ 
